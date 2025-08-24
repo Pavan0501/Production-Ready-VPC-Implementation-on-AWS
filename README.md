@@ -5,7 +5,9 @@ This project demonstrates the deployment of a secure, scalable, and highly avail
 
 Features:
 •	Custom VPC with public and private subnets across multiple Availability Zones
+
 •	Application Load Balancer (ALB) to route traffic to EC2 instances
+
 •	Auto Scaling Group (ASG) for automatic instance scaling based on traffic
 •	Internet Gateway & NAT Gateway setup for internet access management
 •	Route tables configured to control traffic flow within the VPC
