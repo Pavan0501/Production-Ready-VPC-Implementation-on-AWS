@@ -22,10 +22,17 @@ Features:
 Technologies Used:
 
 •	AWS EC2
+
 •	AWS VPC (Subnets, Route Tables)
+
 •	Application Load Balancer (ALB)
+
 •	Auto Scaling Group
+
 •	Internet Gateway & NAT Gateway
+
 •	Security Groups
+
 •	Bastion Host (Jump Box)
+
 •	IAM (for secure access and permissions)
